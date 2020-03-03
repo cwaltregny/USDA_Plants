@@ -1,4 +1,4 @@
-# USDA_Plants
+# Clustering Plants based on US regions 
 
 ## Introduction
 
