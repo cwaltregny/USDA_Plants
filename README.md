@@ -13,10 +13,9 @@ The dataset is composed of 34781 instances of plants names, associated with the 
 ## Method
 
 We'll divide our project into 4 steps:
-
 1. Problem Description
 2. Data Analysis and Preparation
 3. Modelling and Evaluation
 4. Conclusion
 
-Instead of just trying different number of clusters to see which one should be used, we'll try to assess the optimal one using the Elbow method (for the KMeans algorithm) or by plotting the dendrogram (for the hierarchical agglomerative one).
+Instead of just trying different number of clusters to see which one should be used, we'll try to assess the optimal number using the Elbow method (for the KMeans algorithm) or by plotting the dendrogram (for the hierarchical agglomerative one).
